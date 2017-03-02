@@ -1,0 +1,26 @@
+{
+  "name": "bleachcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Thomas Genin <xt6.thomas.genin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^18.1.1",
+    "@types/node": "^7.0.5",
+    "@types/winston": "^2.2.0",
+    "ts-jest": "^19.0.0",
+    "typescript": "^2.2.1"
+  },
+  "dependencies": {
+    "github": "^9.1.0",
+    "jest": "^19.0.2",
+    "kue": "^0.11.5",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "mysql": "mysqljs/mysql",
+    "postcss-safe-parser": "^2.0.0",
+    "uncss": "^0.14.1",
+    "winston": "^2.3.1"
+  }
+}
