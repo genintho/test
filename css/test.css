@@ -18,15 +18,3 @@ asda
 #container .item {
     color: olive;
 }
-
-.dynamic {
-    color: purple;
-}
-
-.unused {
-    color: red;
-}
-
-.extra {
-    background-color: red;
-}
