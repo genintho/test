@@ -1,2 +1,2 @@
 # test
-test for scripts
+A test repo for scripts
