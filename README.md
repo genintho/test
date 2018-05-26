@@ -1,2 +1,2 @@
 # test
-A test repo for scripts
+A test repo for scripts interacting with github
